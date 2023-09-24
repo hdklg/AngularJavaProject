@@ -1,0 +1,23 @@
+.header-bar{
+
+    width: 100rem;
+    background-color: blue;
+    height: 3rem;
+
+}
+.main-header{
+     width: 65rem;
+     background-color: yellow;
+     margin-left: 15rem;
+     height: 3rem;
+     display: inline-block;
+     
+    
+}
+.header-options{
+   
+    float: right;
+}
+.header-logo{
+    display: inline-block;
+}
