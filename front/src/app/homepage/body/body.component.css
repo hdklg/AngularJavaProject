@@ -1,0 +1,30 @@
+img {
+    max-width: 100%;
+    height: auto;
+
+}
+
+.mat-card-left {
+    width: 30%;
+    margin-left: 10%;
+    display: inline-block;
+
+
+}
+
+.mat-card-right {
+    margin-left: 15%;
+    width: 30%;
+    display: inline-block;
+}
+
+.first {
+    padding-top: 2rem;
+}
+
+.main-content {
+    background-color: red;
+    width: 70%;
+    margin-left: 13%;
+
+}

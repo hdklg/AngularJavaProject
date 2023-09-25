@@ -1,23 +1,20 @@
-.header-bar{
-
-    width: 100rem;
-    background-color: blue;
-    height: 3rem;
-
-}
-.main-header{
-     width: 65rem;
-     background-color: yellow;
-     margin-left: 15rem;
-     height: 3rem;
-     display: inline-block;
-     
-    
-}
-.header-options{
-   
-    float: right;
-}
-.header-logo{
+.heading{
+    color: white;
+    margin-left: 1rem;
     display: inline-block;
+}
+.navigation{
+ 
+  display: inline-block;
+  margin-left: 57rem;
+  color: white;
+}
+.header{
+    margin-left: 12rem;
+    width: 70rem;
+    height: 4rem;
+    background-color: yellow;
+}
+span{
+    padding: 1rem;
 }
